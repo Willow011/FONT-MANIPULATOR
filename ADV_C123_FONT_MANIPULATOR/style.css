@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(189, 225, 255);
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 10px;
+    background-color: rgb(209, 234, 255);
+    color: rgb(255, 162, 0);
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(255, 162, 0);
+    font-size: 17px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px gray;
+}
